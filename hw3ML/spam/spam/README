@@ -1,0 +1,19 @@
+The implementaion of ROC curve and Adaboost are written in Python.
+
+Experiment 1:
+    To run experiment 1 - create ROC curve for spam.test. Try the command:
+        python hw3-roc.py
+    It will create a pdf file named 'outputROCcurve.pdf' which contains the expected ROC curve
+
+Experiment 2:
+    To run experiment 2 - implementing Adaboost algorithm. Try the command:
+        python hw3-Adaboost.py
+    It will print out the test accurray of H e.g. ensemble learning
+    To change the number of boosting iterations, change the numberofBoosting variable in the hw3-Adaboost.py file. 
+
+
+Accuracy on test set: 89.62% (3299 correct, 382 incorrect, 3681 total)
+Precision/recall on test set: 90.48%/82.39%
+k = 10: 0.916055419723
+k = 20: 0.91333876664
+ 

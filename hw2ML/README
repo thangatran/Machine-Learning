@@ -1,0 +1,9 @@
+Name: Thang Tran
+CS445 - Homework 2
+
+For the implementation of Perceptron, I use python as my implementing language.
+So basically, the program will read the files named optdigits.data as training data and optdigits.test as test data.
+The program will train the training data so that the accuracy will be 100% and then calculate the accuracy of the test data.
+To run the program, input the command:
+	python perceptron.py
+It will generate a file called outputResult which contains the number of epoches, the accuracy on test and training data, the confusion matrix of each task corresponding a given learning rate. 

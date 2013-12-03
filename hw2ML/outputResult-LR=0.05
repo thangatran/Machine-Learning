@@ -1,0 +1,270 @@
+Task 1: 0 and 1
+    -Number of epochs: 4
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.3870967742
+    -Confusion Matrix : 92 3
+                        0 91
+Task 2: 0 and 2
+    -Number of epochs: 4
+    -Accuracy on training data: 100
+    -Accuracy on test data: 100.0
+    -Confusion Matrix : 95 0
+                        0 94
+Task 3: 0 and 3
+    -Number of epochs: 2
+    -Accuracy on training data: 100
+    -Accuracy on test data: 100.0
+    -Confusion Matrix : 95 0
+                        0 105
+Task 4: 0 and 4
+    -Number of epochs: 8
+    -Accuracy on training data: 100
+    -Accuracy on test data: 97.7653631285
+    -Confusion Matrix : 93 2
+                        2 82
+Task 5: 0 and 5
+    -Number of epochs: 9
+    -Accuracy on training data: 100
+    -Accuracy on test data: 96.174863388
+    -Confusion Matrix : 94 1
+                        6 82
+Task 6: 0 and 6
+    -Number of epochs: 3
+    -Accuracy on training data: 100
+    -Accuracy on test data: 95.1612903226
+    -Confusion Matrix : 95 0
+                        9 82
+Task 7: 0 and 7
+    -Number of epochs: 3
+    -Accuracy on training data: 100
+    -Accuracy on test data: 100.0
+    -Confusion Matrix : 95 0
+                        0 94
+Task 8: 0 and 8
+    -Number of epochs: 6
+    -Accuracy on training data: 100
+    -Accuracy on test data: 99.4535519126
+    -Confusion Matrix : 94 1
+                        0 88
+Task 9: 0 and 9
+    -Number of epochs: 3
+    -Accuracy on training data: 100
+    -Accuracy on test data: 99.4974874372
+    -Confusion Matrix : 94 1
+                        0 104
+Task 10: 1 and 2
+    -Number of epochs: 12
+    -Accuracy on training data: 100
+    -Accuracy on test data: 99.4594594595
+    -Confusion Matrix : 90 1
+                        0 94
+Task 11: 1 and 3
+    -Number of epochs: 7
+    -Accuracy on training data: 100
+    -Accuracy on test data: 100.0
+    -Confusion Matrix : 91 0
+                        0 105
+Task 12: 1 and 4
+    -Number of epochs: 23
+    -Accuracy on training data: 100
+    -Accuracy on test data: 96.0
+    -Confusion Matrix : 88 3
+                        4 80
+Task 13: 1 and 5
+    -Number of epochs: 12
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.8826815642
+    -Confusion Matrix : 90 1
+                        1 87
+Task 14: 1 and 6
+    -Number of epochs: 8
+    -Accuracy on training data: 100
+    -Accuracy on test data: 97.8021978022
+    -Confusion Matrix : 89 2
+                        2 89
+Task 15: 1 and 7
+    -Number of epochs: 7
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.3783783784
+    -Confusion Matrix : 88 3
+                        0 94
+Task 16: 1 and 8
+    -Number of epochs: 69
+    -Accuracy on training data: 100
+    -Accuracy on test data: 95.530726257
+    -Confusion Matrix : 84 7
+                        1 87
+Task 17: 1 and 9
+    -Number of epochs: 43
+    -Accuracy on training data: 100
+    -Accuracy on test data: 99.4871794872
+    -Confusion Matrix : 90 1
+                        0 104
+Task 18: 2 and 3
+    -Number of epochs: 9
+    -Accuracy on training data: 100
+    -Accuracy on test data: 97.9899497487
+    -Confusion Matrix : 90 4
+                        0 105
+Task 19: 2 and 4
+    -Number of epochs: 5
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.8764044944
+    -Confusion Matrix : 92 2
+                        0 84
+Task 20: 2 and 5
+    -Number of epochs: 10
+    -Accuracy on training data: 100
+    -Accuracy on test data: 99.4505494505
+    -Confusion Matrix : 94 0
+                        1 87
+Task 21: 2 and 6
+    -Number of epochs: 6
+    -Accuracy on training data: 100
+    -Accuracy on test data: 99.4594594595
+    -Confusion Matrix : 93 1
+                        0 91
+Task 22: 2 and 7
+    -Number of epochs: 2
+    -Accuracy on training data: 100
+    -Accuracy on test data: 100.0
+    -Confusion Matrix : 94 0
+                        0 94
+Task 23: 2 and 8
+    -Number of epochs: 11
+    -Accuracy on training data: 100
+    -Accuracy on test data: 95.6043956044
+    -Confusion Matrix : 86 8
+                        0 88
+Task 24: 2 and 9
+    -Number of epochs: 5
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.9898989899
+    -Confusion Matrix : 92 2
+                        0 104
+Task 25: 3 and 4
+    -Number of epochs: 8
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.4126984127
+    -Confusion Matrix : 105 0
+                        3 81
+Task 26: 3 and 5
+    -Number of epochs: 30
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.4455958549
+    -Confusion Matrix : 104 1
+                        2 86
+Task 27: 3 and 6
+    -Number of epochs: 4
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.9795918367
+    -Confusion Matrix : 105 0
+                        2 89
+Task 28: 3 and 7
+    -Number of epochs: 4
+    -Accuracy on training data: 100
+    -Accuracy on test data: 100.0
+    -Confusion Matrix : 105 0
+                        0 94
+Task 29: 3 and 8
+    -Number of epochs: 23
+    -Accuracy on training data: 100
+    -Accuracy on test data: 97.9274611399
+    -Confusion Matrix : 105 0
+                        4 84
+Task 30: 3 and 9
+    -Number of epochs: 28
+    -Accuracy on training data: 100
+    -Accuracy on test data: 97.6076555024
+    -Confusion Matrix : 102 3
+                        2 102
+Task 31: 4 and 5
+    -Number of epochs: 7
+    -Accuracy on training data: 100
+    -Accuracy on test data: 99.4186046512
+    -Confusion Matrix : 84 0
+                        1 87
+Task 32: 4 and 6
+    -Number of epochs: 9
+    -Accuracy on training data: 100
+    -Accuracy on test data: 99.4285714286
+    -Confusion Matrix : 83 1
+                        0 91
+Task 33: 4 and 7
+    -Number of epochs: 6
+    -Accuracy on training data: 100
+    -Accuracy on test data: 96.0674157303
+    -Confusion Matrix : 77 7
+                        0 94
+Task 34: 4 and 8
+    -Number of epochs: 26
+    -Accuracy on training data: 100
+    -Accuracy on test data: 95.3488372093
+    -Confusion Matrix : 77 7
+                        1 87
+Task 35: 4 and 9
+    -Number of epochs: 48
+    -Accuracy on training data: 100
+    -Accuracy on test data: 95.7446808511
+    -Confusion Matrix : 79 5
+                        3 101
+Task 36: 5 and 6
+    -Number of epochs: 4
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.3240223464
+    -Confusion Matrix : 87 1
+                        2 89
+Task 37: 5 and 7
+    -Number of epochs: 7
+    -Accuracy on training data: 100
+    -Accuracy on test data: 99.4505494505
+    -Confusion Matrix : 88 0
+                        1 93
+Task 38: 5 and 8
+    -Number of epochs: 19
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.8636363636
+    -Confusion Matrix : 88 0
+                        2 86
+Task 39: 5 and 9
+    -Number of epochs: 22
+    -Accuracy on training data: 100
+    -Accuracy on test data: 95.8333333333
+    -Confusion Matrix : 80 8
+                        0 104
+Task 40: 6 and 7
+    -Number of epochs: 3
+    -Accuracy on training data: 100
+    -Accuracy on test data: 100.0
+    -Confusion Matrix : 91 0
+                        0 94
+Task 41: 6 and 8
+    -Number of epochs: 11
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.3240223464
+    -Confusion Matrix : 88 3
+                        0 88
+Task 42: 6 and 9
+    -Number of epochs: 2
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.9743589744
+    -Confusion Matrix : 90 1
+                        1 103
+Task 43: 7 and 8
+    -Number of epochs: 4
+    -Accuracy on training data: 100
+    -Accuracy on test data: 99.4505494505
+    -Confusion Matrix : 94 0
+                        1 87
+Task 44: 7 and 9
+    -Number of epochs: 7
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.4848484848
+    -Confusion Matrix : 92 2
+                        1 103
+Task 45: 8 and 9
+    -Number of epochs: 18
+    -Accuracy on training data: 100
+    -Accuracy on test data: 98.4375
+    -Confusion Matrix : 86 2
+                        1 103

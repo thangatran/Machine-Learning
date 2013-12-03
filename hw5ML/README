@@ -1,0 +1,53 @@
+Name: Thang Tran
+CS445 - Homework 5
+
+This is the implementation of K-means clustering based on the optdigit data from homework 1
+The program is written in Python.
+In order to run the program, it requires numpy and scipy packages to be installed. 
+For Ubuntu, to install numpy and scipy packages, input the command
+	sudo apt-get install python-numpy
+        sudo apt-get install python-scipy
+To run the program, input the command:
+	python hw5.py
+This will print the result of sum-squared error, average entropy, the accuracy on the test data, and the confusion matrix on the terminal
+The visualizations of k centroids are stored as jpg image files in the current directory named digitofClusterk.jpg where k is the cluster number of k clusters 
+
+
+k=10
+Sum-Squared error:643643.488327
+Average Entropy: 0.894983981424
+Accuracy on test data: 0.785867237687
+The Confusion Matrix:
+ |0 1 2 3 4 5 6 7 8 9
+-|- - - - - - - - - -
+0|92 1 0 0 2 0 0 0 0 0
+1|0 89 0 1 0 0 0 1 0 0
+2|0 1 81 4 0 0 0 2 6 0
+3|0 2 0 97 0 1 0 1 4 0
+4|0 6 0 0 57 9 0 12 0 0
+5|0 4 0 10 0 73 1 0 0 0
+6|0 2 0 0 0 0 89 0 0 0
+7|0 2 0 0 0 0 0 92 0 0
+8|0 22 0 0 0 2 0 0 64 0
+9|0 14 0 71 0 9 0 10 0 0
+
+
+k=30
+Sum-Squared error:511735.831182
+Average Entropy: 0.504110380801
+Accuracy on test data: 0.903640256959
+The Confusion Matrix:
+ |0 1 2 3 4 5 6 7 8 9
+-|- - - - - - - - - -
+0|93 0 0 0 1 0 0 0 0 1
+1|0 88 0 0 0 0 0 1 0 2
+2|0 0 87 1 0 0 0 0 6 0
+3|0 1 0 97 0 0 0 1 1 5
+4|0 0 0 0 79 0 1 4 0 0
+5|0 4 0 0 0 68 1 0 0 15
+6|0 2 0 0 0 0 89 0 0 0
+7|0 2 0 0 0 0 0 92 0 0
+8|1 20 1 1 4 0 0 0 61 0
+9|0 0 1 1 5 0 0 7 0 90
+
+

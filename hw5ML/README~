@@ -1,0 +1,14 @@
+Name: Thang Tran
+CS445 - Homework 5
+
+This is the implementation of K-means clustering based on the optdigit data from homework 1
+The program is written in Python.
+In order to run the program, it requires numpy and scipy packages to be installed. 
+For Ubuntu, to install numpy and scipy packages, input the command
+	sudo apt-get install python-numpy
+        sudo apt-get install python-scipy
+To run the program, input the command:
+	python hw5.py
+This will print the result of sum-squared error, average entropy, the accuracy on the test data, and the confusion matrix on the terminal
+The visualizations of k centroids are stored as jpg image files in the current directory named digitofClusterk.jpg where k is the cluster number of k clusters 
+

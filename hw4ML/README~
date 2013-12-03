@@ -1,0 +1,7 @@
+Name: Thang Tran
+CS445 - Homework 4
+
+This is the implementation on Bayesian Learning based on the optdigit data from homework 1
+To run the program, input the command:
+	python hw4.py
+This will print out the confusion matrix and the accuracy on the test set
